@@ -1,0 +1,1 @@
+ This project was made to demonstrate skills I have learned from previous lessons. Create a web page, Postion and move elements within a web page horizontally align elements  and design a search input and navigation bar . 
